@@ -87,8 +87,9 @@ Feel free to use, modify, and improve it!
 ---
 
 ## 📸 Preview
-*(Add circuit diagram and prototype photos here when available)*
 
----
+
+---![WhatsApp Image 2025-10-20 at 22 56 34_800b73a6](https://github.com/user-attachments/assets/875c137e-0254-4424-95ee-71bb46524f95)
+
 
 ### 🌿 “Smart irrigation isn’t just about watering plants — it’s about nurturing sustainability.” 🌿
